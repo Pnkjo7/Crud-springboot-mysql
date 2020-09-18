@@ -1,6 +1,6 @@
 # Crud-springboot-mysql
 
-technologies used:
+Technologies used:
 1)Java8
 2)SpringBoot
 3)Mysql
